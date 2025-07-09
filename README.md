@@ -163,8 +163,10 @@ This dashboard will be automated so that the team can access updated data in rea
 
 ## 📷 Dashboard Previews
 
-_Add a screenshot of the dashboard here_  
-(Upload to the repo and link using `![alt text](your-image-path)`)
+![Vista del Dashboard](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/fe9babbc63ddeb87e32090408205fb2dc493cd70/Dashboard_Asistencia.jpg)
+
+![Descripción del GIF](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/7500c6469d94216bdd12a53fde4cad22dc42de8a/RRHH_DASHBORD.gif)
+
 
 ---
 
