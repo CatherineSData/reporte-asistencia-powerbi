@@ -84,7 +84,7 @@ Contáctame o conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/cathe
 
 ## 📁 Cómo usar este proyecto
 
-1. Descarga el archivo `.pbix` incluido.
+1. Descarga el archivo  [Download the `.pbix` file](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/d7c4da11f0eba2569b47f104f61f80685375897d/Dashboard_Asistencia.pbix)  incluido.
 2. Abre el archivo en Power BI Desktop.
 3. Reemplaza la fuente de datos si deseas adaptarlo a tu entorno.
 
