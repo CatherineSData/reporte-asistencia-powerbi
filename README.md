@@ -84,7 +84,7 @@ Contáctame o conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/cathe
 
 ## 📁 Cómo usar este proyecto
 
-1. Descarga el archivo  [Download the `.pbix` file](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/d7c4da11f0eba2569b47f104f61f80685375897d/Dashboard_Asistencia.pbix)  incluido.
+1.1. [Descarga el archivo `.pbix` incluido](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/d7c4da11f0eba2569b47f104f61f80685375897d/Dashboard_Asistencia.pbix?raw=true)
 2. Abre el archivo en Power BI Desktop.
 3. Reemplaza la fuente de datos si deseas adaptarlo a tu entorno.
 
@@ -163,9 +163,9 @@ This dashboard will be automated so that the team can access updated data in rea
 
 ## 📷 Dashboard Previews
 
-![Vista del Dashboard](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/fe9babbc63ddeb87e32090408205fb2dc493cd70/Dashboard_Asistencia.jpg)
+![Dashboard Overview](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/fe9babbc63ddeb87e32090408205fb2dc493cd70/Dashboard_Asistencia.jpg)
 
-![Descripción del GIF](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/7500c6469d94216bdd12a53fde4cad22dc42de8a/RRHH_DASHBORD.gif)
+![Animated Demo of the Dashboard](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/7500c6469d94216bdd12a53fde4cad22dc42de8a/RRHH_DASHBORD.gif)
 
 
 ---
@@ -179,6 +179,6 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/catherine-small1517/) 
 
 ## 📁 How to use this project
 
-1. Download the included `.pbix` file.  
+1. [Download the included `.pbix` file](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/d7c4da11f0eba2569b47f104f61f80685375897d/Dashboard_Asistencia.pbix?raw=true).
 2. Open it in Power BI Desktop.  
 3. Replace the data source if you'd like to adapt it to your organization.
