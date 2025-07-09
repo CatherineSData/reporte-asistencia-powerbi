@@ -67,10 +67,9 @@ Este dashboard no se queda aquí: será automatizado para que el equipo tenga ac
 
 ---
 
-## 📷 Capturas del Dashboard
+## 📷 Captura del Dashboard
 
-_Añade aquí la imagen del dashboard_  
-(Puedes subirla a tu repositorio y vincularla con: `![alt text](ruta-de-tu-imagen)`)
+![Vista del Dashboard](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/fe9babbc63ddeb87e32090408205fb2dc493cd70/Dashboard_Asistencia.jpg)
 
 ---
 
