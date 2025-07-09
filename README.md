@@ -71,6 +71,8 @@ Este dashboard no se queda aquí: será automatizado para que el equipo tenga ac
 
 ![Vista del Dashboard](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/fe9babbc63ddeb87e32090408205fb2dc493cd70/Dashboard_Asistencia.jpg)
 
+![Descripción del GIF](https://github.com/CatherineSData/reporte-asistencia-powerbi/blob/7500c6469d94216bdd12a53fde4cad22dc42de8a/RRHH_DASHBORD.gif)
+
 ---
 
 ## 🤝 ¿Colaboramos?
